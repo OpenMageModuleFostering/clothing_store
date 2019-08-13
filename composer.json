@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Clothing_Store",
+    "type": "magento-module",
+    "license": "Single-domain-license",
+    "homepage": "",
+    "description": "Free GoMage theme for Clothing store has elegant design, advanced navigation options for shoppers, possibility of easy customization for administrators and professional customer support what is the key of success for on-line clothing store.",
+    "authors": [
+    {
+        "name": "GoMage",
+        "email": "support@gomage.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
